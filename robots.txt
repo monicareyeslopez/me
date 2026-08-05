@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://monicareyeslopez.github.io//sitemap.xml
+Sitemap: https://monicareyeslopez.github.io//me/sitemap.xml
